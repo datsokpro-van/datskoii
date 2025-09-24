@@ -59,13 +59,6 @@ https://github.com/datsokpro-van/new-public-repos/commit/3c596ca6045b71794b6f053
 **Ссылка на коммит:**
 https://github.com/datsokpro-van/datskoii/commit/e030d9b
 
-### Содержимое .gitignore:**
-- gitignore
-##### Игнорировать файлы .pyc
-- *.pyc
-
-##### Игнорировать директорию cache
-- cache/
 
 ### Задание 3
 
