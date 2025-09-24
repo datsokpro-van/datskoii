@@ -61,10 +61,10 @@ https://github.com/datsokpro-van/datskoii/commit/e030d9b
 
 **Содержимое .gitignore:**
 - gitignore
-# Игнорировать файлы .pyc
+### Игнорировать файлы .pyc
 - *.pyc
 
-# Игнорировать директорию cache
+### Игнорировать директорию cache
 - cache/
 
 ### Задание 3
