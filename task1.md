@@ -12,5 +12,8 @@
 6. Создан коммит: 'First commit'
 7. Выполнен push на GitHub
 
-## Ссылка на коммит:
+## Ссылки на коммит:
 https://github.com/datsokpro-van/new-public-repos/commit/3c596ca6045b71794b6f053c71d814b5c6843f77x
+
+
+https://github.com/datsokpro-van/datskoii/commit/e1630fc
